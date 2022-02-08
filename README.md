@@ -1,9 +1,12 @@
 ### Hi there 👋
-<div align="center">
 
-<iframe src="http://myfunserver.paradoxmedia.space/widget/widget.php" frameborder="0" scrolling="no" width="280"height="122">Ваш браузер не поддерживает плавающие фреймы!</iframe>
 
-</div>
+<iframe src="http://myfunserver.paradoxmedia.space/widget/widget.php" frameborder="0" scrolling="no" width="280"height="122">
+
+   Ваш браузер не поддерживает плавающие фреймы!
+
+</iframe>
+
 <!--
 **Alberto-Kali/Alberto-Kali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
