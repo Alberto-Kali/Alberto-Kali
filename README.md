@@ -1,8 +1,8 @@
 ### Hi there 👋
 <div align="center">
 
-    ![Spotify](http://myfunserver.paradoxmedia.space/widget/widget.php)
-    ![Counter](https://count.getloli.com/get/@mishailovic?theme=rule34)
+   ![Spotify](http://myfunserver.paradoxmedia.space/widget/widget.php)
+   ![Counter](https://count.getloli.com/get/@mishailovic?theme=rule34)
 
 </div>
 <!--
