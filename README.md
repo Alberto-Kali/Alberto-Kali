@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 
+<div align="center">
+
+  ![Counter](http://myfunserver.paradoxmedia.space:3000/get/@:name)
+
+</div>
+
 
 
 <!--
