@@ -1,8 +1,7 @@
 ### Hi there 👋
 <div align="center">
 
-   <iframe src="http://myfunserver.paradoxmedia.space/widget/widget.php" frameborder="0" scrolling="no" width="280" height="122">Ваш браузер не поддерживает плавающие фреймы!</iframe>
-   
+<iframe src="http://myfunserver.paradoxmedia.space/widget/widget.php" frameborder="0" scrolling="no" width="280"height="122">Ваш браузер не поддерживает плавающие фреймы!</iframe>
 
 </div>
 <!--
