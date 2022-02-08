@@ -1,8 +1,8 @@
 ### Hi there 👋
 <div align="center">
 
-   ![Spotify](http://myfunserver.paradoxmedia.space/widget/widget.php)
-   ![Counter](https://count.getloli.com/get/@mishailovic?theme=rule34)
+   <iframe src="http://myfunserver.paradoxmedia.space/widget/widget.php" frameborder="0" scrolling="no" width="280" height="122">Ваш браузер не поддерживает плавающие фреймы!</iframe>
+   
 
 </div>
 <!--
