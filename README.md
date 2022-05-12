@@ -11,7 +11,7 @@
 </div>
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+best!)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+the+best+science!)
   
 </div>
 <!--
