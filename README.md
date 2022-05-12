@@ -2,9 +2,15 @@
 
 
 <div align="center">
+  
   ### Hi there 👋
-  ![Счётчик](http://reincornation.ddnsking.com:3000/get/@:name)
+  
+</div>
 
+<div align="center">
+  
+  ![Счётчик](http://reincornation.ddnsking.com:3000/get/@:name)
+  
 </div>
 
 
