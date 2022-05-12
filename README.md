@@ -14,11 +14,13 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+the+best+science!)
   
 </div>
-<div align="center">
+<!--
+ <div align="center">
 
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
+-->
 <!--
 **Alberto-Kali/Alberto-Kali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
