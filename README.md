@@ -3,8 +3,7 @@
 
 <div align="center">
 
-  ![Счётчик](http://myfunserver.paradoxmedia.space:3000/get/@:name)
-  ![quote]Lorem ipsum dolor sit amet[/quote]
+  ![Счётчик](http://reincornation.ddnsking.com:3000/get/@:name)
 
 </div>
 
