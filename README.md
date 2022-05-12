@@ -3,7 +3,8 @@
 
 <div align="center">
 
-  ![Counter](http://myfunserver.paradoxmedia.space:3000/get/@:name)
+  ![Счётчик](http://myfunserver.paradoxmedia.space:3000/get/@:name)
+  ![quote]Lorem ipsum dolor sit amet[/quote]
 
 </div>
 
