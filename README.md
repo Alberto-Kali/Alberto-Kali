@@ -6,13 +6,18 @@
 
 <div align="center">
   
-  ![Счётчик](http://reincornation.ddnsking.com:3000/get/@:name)
+  ![Счётчик](http://reincornation.ddnsking.com:3000/get/@:Author)
   
 </div>
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+the+best+science!)
   
+</div>
+<div align="center">
+  ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+  ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 </div>
 <!--
 **Alberto-Kali/Alberto-Kali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
