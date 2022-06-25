@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  ![Счётчик](http://reincornation.ddnsking.com:3000/get/@:Author)
+  ![Счётчик](http://myfunserver.paradoxmedia.space:3000/get/@:Author)
   
 </div>
 <div align="center">
