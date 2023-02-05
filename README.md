@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  ![Счётчик](https://myfunserver.paradoxmedia.space:3000/get/@:Author)
+  ![Счётчик](https://paradox.uno:3000/get/@:Author)
   
 </div>
 <div align="center">
