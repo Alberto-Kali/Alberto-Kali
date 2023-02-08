@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  ![Счётчик](https://paradox.uno:3000/get/@:Author)
+  ![https://paradox.uno:3000/get/@:Author](https://paradox.uno:3000/get/@:Author?theme=gelbooru)
   
 </div>
 <div align="center">
