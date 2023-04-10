@@ -4,12 +4,12 @@
   
 </div>
 
-<div align="center">
+<!--div align="center">
   
   ![https://paradox.uno:3000/get/@:Author](https://paradox.uno:3000/get/@:Author?theme=gelbooru)
   
 </div>
-<div align="center">
+<div align="center"-->
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+the+best+science!)
   
