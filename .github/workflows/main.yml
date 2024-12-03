@@ -38,8 +38,15 @@ jobs:
           filename: medias.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          config_order: anilist
+          config_order: anilist, chess, 16personalities
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 22
+          plugin_chess: yes
+          plugin_chess_token: ${{ secrets.LICHESS_TOKEN }}
+          plugin_chess_platform: lichess.org
+          plugin_16personalities: yes
+          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
+          plugin_16personalities_sections: personality, traits
+          plugin_16personalities_scores: no
