@@ -16,6 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
           base_indepth: yes
@@ -34,7 +35,8 @@ jobs:
           plugin_discussions: yes 
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.anilist.characters.svg
+          filename: medias.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_anilist: yes
           plugin_anilist_sections: characters
