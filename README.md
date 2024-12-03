@@ -1,4 +1,4 @@
-![Metrics](/github-metrics.svg)
+![Metrics](/general.svg)
 
 
 <!--
