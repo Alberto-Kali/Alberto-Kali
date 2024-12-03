@@ -37,7 +37,7 @@ jobs:
         with:
           filename: medias.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: header
           config_order: chess, 16personalities
           plugin_chess: yes
           plugin_chess_token: ${{ secrets.LICHESS_TOKEN }}
