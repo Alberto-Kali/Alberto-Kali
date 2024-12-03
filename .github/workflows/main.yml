@@ -33,7 +33,7 @@ jobs:
           plugin_topics_mode: icons
           plugin_notable: yes
           plugin_discussions: yes 
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@main
         with:
           filename: medias.svg
           token: ${{ secrets.METRICS_TOKEN }}
