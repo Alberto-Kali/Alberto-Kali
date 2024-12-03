@@ -38,6 +38,8 @@ jobs:
           filename: medias.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          config_order: anilist
           plugin_anilist: yes
+          plugin_anilist_medias: anime
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 22
